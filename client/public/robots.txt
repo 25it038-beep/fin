@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/*
+
+# Add a Sitemap URL after the website has a confirmed public domain.
