@@ -811,7 +811,7 @@ function StudioSite() {
           <div className="contact-grid section-shell">
             <div className="contact-details">
               <div className="contact-detail"><span className="contact-icon"><MapPin size={17} /></span><div><small>VISIT</small><p>{business.address}</p><a href={mapsHref()} target="_blank" rel="noreferrer">Open in Google Maps <ArrowUpRight size={14} /></a></div></div>
-              <div className="contact-detail"><span className="contact-icon"><Phone size={17} /></span><div><small>CALL / WHATSAPP</small><p><a href="tel:+919171000563">+91 91710 00563</a><br /><a href="tel:+918667073847">+91 86670 73847</a></p><a href={whatsappHref()} target="_blank" rel="noreferrer">Start a WhatsApp enquiry <ArrowUpRight size={14} /></a></div></div>
+              <div className="contact-detail"><span className="contact-icon"><Phone size={17} /></span><div><small>CALL / WHATSAPP</small><p><a href="tel:+918667073847">+91 86670 73847</a><br /><a href="tel:+919171000563">+91 91710 00563</a></p><a href={whatsappHref()} target="_blank" rel="noreferrer">Start a WhatsApp enquiry <ArrowUpRight size={14} /></a></div></div>
               <div className="contact-detail"><span className="contact-icon"><Mail size={17} /></span><div><small>WRITE</small><p><a href={`mailto:${business.email}`}>{business.email}</a></p><a href={`mailto:${business.email}`}>Send an email <ArrowUpRight size={14} /></a></div></div>
               <div className="contact-person"><span>YOUR CONTACT</span><strong>Babu N</strong><span>Studio K — Photography & Film</span></div>
             </div>

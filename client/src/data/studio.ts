@@ -2,7 +2,7 @@ export const business = {
   name: "Studio K – Photography & Film",
   brand: "STUDIO K",
   contactPerson: "Babu N",
-  phones: ["9171000563", "8667073847"],
+  phones: ["8667073847", "9171000563"],
   email: "studiokbabu@gmail.com",
   address: "17/9, Gulam Murthuzа Street, Ellis Road, Chennai – 600002.",
   mapQuery: "17/9, Gulam Murthuzа Street, Ellis Road, Chennai 600002",
